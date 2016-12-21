@@ -26,4 +26,5 @@ set_include_path(
 	__DIR__ . DIRECTORY_SEPARATOR . 'Entities'. PATH_SEPARATOR,
 	__DIR__ . DIRECTORY_SEPARATOR . 'Classes',
 );
+$loader = new DynamicAutoloader(get_include_path());
 ```
