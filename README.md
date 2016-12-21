@@ -7,7 +7,7 @@ Simply, `DynamicAutoloader` searches for a class inside a bunch of paths and inc
 
 ###Usage
 
-1. Set paths as an array:   
+* Set paths as an array:   
 
 ```php
 $loader = new DynamicAutoloader([
@@ -18,7 +18,7 @@ $loader = new DynamicAutoloader([
 ]);
 ```
 
-2. Set paths using `PATH_SEPARATOR`:   
+* Set paths using `PATH_SEPARATOR`:   
 
 ```php
 set_include_path(
