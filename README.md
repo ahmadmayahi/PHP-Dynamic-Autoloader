@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/ahmadmayahi/PHP-Dynamic-Autoloader/badges/gpa.svg)](https://codeclimate.com/github/ahmadmayahi/PHP-Dynamic-Autoloader)
 # PHP-Dynamic-Autoloader
 PHP Dynamic Autoloader
 
