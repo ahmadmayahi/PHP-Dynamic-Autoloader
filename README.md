@@ -6,7 +6,7 @@ The purpose of creating this class is to provide dynamic autoloading for PHP cla
 
 Simply, `DynamicAutoloader` searches for a class inside a bunch of paths and includes the class if exists.
 
-###Usage
+### Usage
 
 * Set paths as an array:   
 
